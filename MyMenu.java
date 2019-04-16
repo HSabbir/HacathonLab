@@ -21,7 +21,7 @@ public class MyMenu
 		
 		while(true)
 		{
-			System.out.println("WELCOME TO STUDENTSHIP CERTIFICATE GIVER!\n1.Sign In\n2..Exit\n");
+			System.out.println("WELCOME TO STUDENTSHIP CERTIFICATE!\n1.Sign In\n2..Exit\n");
 			
 			int choice;
 			choice = cin.nextInt();
