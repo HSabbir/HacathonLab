@@ -1,4 +1,4 @@
-package clientServer;
+package iit;
 
 import java.net.*;  
 import java.io.*;  
